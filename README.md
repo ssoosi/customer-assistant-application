@@ -1,2 +1,2 @@
-# customer-assistant-application-
+# Customer Assistant Application
 Customer assistant application for a telecommunications company that allows users to view and manage their account status, services, payments, and orders
